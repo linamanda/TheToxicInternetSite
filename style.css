@@ -5,7 +5,11 @@
   text-align: center;
   padding-top: 3%;
   padding-bottom: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 3%;
   color: #36D433;
+  background-color: rgba(52, 52, 52, 0.8);
 }
 
 #i-PageLink {
@@ -22,11 +26,18 @@ body {
 
 .i-MainContent {
   text-align: center;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 1% 2.5% 1% 2.5%;
+  background-color: rgba(52, 52, 52, 0.8);
 }
 
 .i-NavBar {
   text-align: center;
-  padding-top: 3%;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 3% 2.5% 3% 2.5%;
+  background-color: rgba(52, 52, 52, 0.8);
   font-size: 100%;
   font-family: Verdana;
   color: white;
@@ -34,6 +45,7 @@ body {
 
 .i-NavBar a {
   color: white;
+  font-size: 150%;
   text-decoration: none;
 }
 
@@ -43,6 +55,7 @@ body {
 
 .a-IndexLink img {
   position: absolute;
+  margin-top: -2%;
   padding-left: 1%;
   padding-top: 1%;
   width: 60px;
@@ -98,6 +111,7 @@ body {
 
 .yr-IndexLink img {
   position: absolute;
+  margin-top: -2%;
   padding-left: 1%;
   padding-top: 1%;
   width: 60px;
