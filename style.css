@@ -1,9 +1,19 @@
-.i-HeadTitle, .a-HeadTitle, .yr-HeadTitle {
+.i-HeadTitle {
+  font-size: 600%;
+  font-family: Verdana;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 3%;
+  padding-bottom: 5%;
+  color: #36D433;
+}
+
+.a-HeadTitle, .yr-HeadTitle {
   font-size: 500%;
   font-family: Verdana;
   letter-spacing: 2px;
   text-align: center;
-  padding-top: 3%;
+  padding-top: 6%;
   padding-bottom: 5%;
   margin-left: 3%;
   margin-right: 3%;
@@ -26,26 +36,18 @@ body {
 
 .i-MainContent {
   text-align: center;
-  margin-left: 3%;
-  margin-right: 3%;
-  padding: 1% 2.5% 1% 2.5%;
-  background-color: rgba(52, 52, 52, 0.8);
 }
 
 .i-NavBar {
   text-align: center;
-  margin-left: 3%;
-  margin-right: 3%;
-  padding: 3% 2.5% 3% 2.5%;
-  background-color: rgba(52, 52, 52, 0.8);
-  font-size: 100%;
+  padding-top: 5%;
+  font-size: 150%;
   font-family: Verdana;
   color: white;
 }
 
 .i-NavBar a {
   color: white;
-  font-size: 150%;
   text-decoration: none;
 }
 
